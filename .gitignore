@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Kuantun.VC.VC.opendb
+*.opendb
+/Kuantun/Release
+/Kuantun/Debug
+/Kuantun/Kuantun.VC.db
+/Bender
+/Bender
+*.ipch
+/Release

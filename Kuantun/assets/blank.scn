@@ -1,0 +1,8 @@
+<root>
+    <camera posx="0" posy="0" posz="-15" rx="0" ry="0" rz="0" upx="0" upy="1" upz="0" fov="120"/>
+    <objs>
+    </objs>
+    <lights>
+        <item int="100" type="point" x="0" y="0" z="0"/>
+    </lights>
+</root>
